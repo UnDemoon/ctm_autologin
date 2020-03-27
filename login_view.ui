@@ -52,7 +52,7 @@
        </layout>
       </item>
       <item>
-       <widget class="QPushButton" name="signin">
+       <widget class="QPushButton" name="signinButton">
         <property name="text">
          <string>Sign In</string>
         </property>

@@ -1,4 +1,14 @@
 {
+    "zhihu":{
+        "name":"知乎",
+        "user_name":"",
+        "user_pwd":""
+    },
+    "baidupan":{
+        "name":"百度云",
+        "user_name":"",
+        "user_pwd":""
+    },
     "douban":{
         "name":"豆瓣",
         "user_name":"",
@@ -36,11 +46,6 @@
     },
     "QQId":{
         "name":"QQId",
-        "user_name":"",
-        "user_pwd":""
-    },
-    "zhihu":{
-        "name":"zhihu",
         "user_name":"",
         "user_pwd":""
     },
@@ -116,11 +121,6 @@
     },
     "youdao":{
         "name":"youdao",
-        "user_name":"",
-        "user_pwd":""
-    },
-    "baidupan":{
-        "name":"baidupan",
         "user_name":"",
         "user_pwd":""
     },
